@@ -1,0 +1,31 @@
+{
+  "name": "visualizr",
+  "version": "0.0.1",
+  "description": "Small Javascript client to send data metrics to Visualizr service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "visualizr"
+  ],
+  "repository": {
+    "url": "git@github.com:visualizr/visualizr.git",
+    "type": "git"
+  },
+  "author": "Masagi Limited",
+  "maintainers": [
+    {
+      "name": "Simon Ordish",
+      "email": "simon.ordish@masagi.co.uk"
+    },
+    {
+      "name": "Tim Seed",
+      "email": "tim.seed@visualizr.co.uk"
+    }
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "license": "ISC"
+}
