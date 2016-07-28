@@ -1,6 +1,6 @@
 {
   "name": "visualizr",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Small Javascript client to send data metrics to Visualizr service",
   "main": "index.js",
   "scripts": {
