@@ -38,3 +38,5 @@ Here is a simple example
 When requiring visualizr you must provide a `config` object. Currently you are only required to provide an apiKey, which will be used to store your data metric correctly and used by the visualizr engine to generate charts.
 
 The call `visualizr([data metric], [callback])` will send the data metric and callback will be executed when the data metric is successfully stored or if there is an error.
+
+And another thing....
