@@ -1,5 +1,6 @@
 'use strict'
 
+
 var visualizr = require('./index')({
   apiKey: '<PLACE YOUR API KEY HERE>',
 })
